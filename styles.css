@@ -1,0 +1,81 @@
+/* Estilos globais */
+body {
+  font-family: "comic sans", sans-serif;
+  background-color: #ffd2f3;
+  color: #2d2d2d;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.navegacao a {
+  color: #2d2d2d;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+/* Estilos para a seção de resumo */
+.resumoo {
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Estilos para a imagem */
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+/* Estilos para as listas */
+.listass {
+  text-align: left;
+  padding: 1rem;
+}
+
+/* Estilos para a tabela */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #333;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+/* Estilo para a primeira linha da tabela */
+tr:first-child {
+  background-color: #ffb2f8; /* Ajuste a cor conforme necessário */
+}
+
+/* Estilos para a seção de projetos */
+.projetoss {
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Estilos para as redes sociais */
+.redes_sociaiss {
+  text-align: center;
+  padding: 2rem;
+}
+
+.dados_visitante_ {
+  /* "contato"*/
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Estilos para o formulário */
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
